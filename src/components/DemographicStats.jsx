@@ -26,7 +26,7 @@ const DemographicStats = ({id, label, data = {}}) => {
             statistic = <p>{data.label} make up <strong>{data.value}</strong> of employees</p>;
             break;
         case 'budget':
-            statistic = <p><strong>{data.value}</strong> minimum recommended buget to reduce pay equity gap</p>;
+            statistic = <p><strong>{data.value}</strong> minimum recommended budget to reduce pay equity gap</p>;
             break;
         default:
             //None
