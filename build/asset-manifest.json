@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.903fae71.chunk.css",
+    "main.js": "/static/js/main.61497538.chunk.js",
+    "main.js.map": "/static/js/main.61497538.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e42ecdef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e42ecdef.js.map",
+    "static/js/2.68f7f889.chunk.js": "/static/js/2.68f7f889.chunk.js",
+    "static/js/2.68f7f889.chunk.js.map": "/static/js/2.68f7f889.chunk.js.map",
+    "static/js/3.ae60d0e5.chunk.js": "/static/js/3.ae60d0e5.chunk.js",
+    "static/js/3.ae60d0e5.chunk.js.map": "/static/js/3.ae60d0e5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.903fae71.chunk.css.map": "/static/css/main.903fae71.chunk.css.map",
+    "static/js/2.68f7f889.chunk.js.LICENSE.txt": "/static/js/2.68f7f889.chunk.js.LICENSE.txt",
+    "static/media/chevron.a9fab3e0.svg": "/static/media/chevron.a9fab3e0.svg",
+    "static/media/syndio-logo.05771d84.svg": "/static/media/syndio-logo.05771d84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e42ecdef.js",
+    "static/js/2.68f7f889.chunk.js",
+    "static/css/main.903fae71.chunk.css",
+    "static/js/main.61497538.chunk.js"
+  ]
+}
